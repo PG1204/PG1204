@@ -6,7 +6,7 @@
 
 
 
-##🙋‍♂️ About Me
+## 🙋‍♂️ About Me
 
 
 - 🔭 I’m currently working on developing my skills. P.S - Will never be satisfied with how much ever information I take into my head.
@@ -14,7 +14,7 @@
 - 📫 You can reach me at [my email](vidya0dhar@gmail.com)
 - 🏋️ Weight-Training and 📈 Investing are the two things I love most after my parents.
 
-##🚀 Languages and Tools
+## 🚀 Languages and Tools
 
 
 
