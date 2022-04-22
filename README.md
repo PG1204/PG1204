@@ -14,8 +14,6 @@
 - 📫 You can reach me at [my email](vidya0dhar@gmail.com)
 - 🏋️ Weight-Training and 📈 Investing are the two things I love most after my parents.
 
-## 🚀 Languages and Tools
-
 
 
 <!--
