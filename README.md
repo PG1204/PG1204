@@ -1,8 +1,8 @@
-### Hello there 👋, Prateek Ganigi here! 
+## Hello there 👋, Prateek Ganigi here! 
 
-## Thank you for stalking my profile :)
+### Thank you for stalking my profile :)
 
-# If I could trade my soul to live in the virtual world, I'd take that action without thinking twice.
+### If I could trade my soul to live in the virtual world, I'd take that action without thinking twice.
 
 
 
