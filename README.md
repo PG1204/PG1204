@@ -9,10 +9,11 @@
 ## 🙋‍♂️ About Me
 
 
-- 🔭 I’m currently working on developing my skills. P.S - Will never be satisfied with how much ever information I take into my head.
-- 🌱 I’m currently learning Data Science and Cloud Computing.
+- 🔭 I work on something new everyday.
+- 🌱 I’m currently learning about Cloud and Data Science.
 - 📫 You can reach me at [my email](vidya0dhar@gmail.com)
 - My hobbies #include <🏋️ Weight-Training and 📈 Investing>.
+- Very passionate about Electronic Dance Music 🎛️
 
 
 
