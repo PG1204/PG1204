@@ -6,15 +6,15 @@
 
 
 
-🙋‍♂️ About Me
+##🙋‍♂️ About Me
 
 
 - 🔭 I’m currently working on developing my skills. P.S - Will never be satisfied with how much ever information I take into my head.
 - 🌱 I’m currently learning Data Science and Cloud Computing.
 - 📫 You can reach me at [my email](vidya0dhar@gmail.com)
-- 🏋️ Weight-Training and 📈 Investing are the two things I love the most after my parents.
+- 🏋️ Weight-Training and 📈 Investing are the two things I love most after my parents.
 
-🚀 Languages and Tools
+##🚀 Languages and Tools
 
 
 
