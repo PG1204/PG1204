@@ -4,7 +4,7 @@
 
 I'm a Computer Science graduate student at **UC Irvine** with a passion for building scalable backend systems and full-stack applications. With **1.5 years of professional experience** at Deloitte, I've developed enterprise-grade software solutions and am currently seeking **software engineering internships and full-time opportunities** for Summer 2026.
 
-- 🎓 **Master of Computer Science** @ UC Irvine (Expected 2026)
+- 🎓 **Master of Computer Science** @ UC Irvine (Expected - December 2026)
 - 🎓 **Bachelor of Computer Science** (Cloud Computing Specialization) @ SRM University
 - 💼 Previously: **Software Engineer** @ Deloitte
 - 📍 Based in Irvine, CA
