@@ -27,7 +27,7 @@ I'm a Computer Science graduate student at **UC Irvine** with a passion for buil
 *Core Java Backend Development for Banking Systems*
 
 - Developed **core Java business logic** for loan products at a major Indian public sector bank, reducing processing time by **75%** and contributing to **80%+ revenue growth** in gold loans.
-- Worked on multiple loan products including **Staff Loan** and **Heal Loan**, implementing complex business rules and validation logic.
+- Worked on multiple loan products , implementing complex business rules and validation logic.
 - Collaborated with **cross-functional teams** including operations, infrastructure, and vendor teams to deliver production-grade solutions.
 - Automated **CI/CD pipelines** using Jenkins and RedHat OpenShift for seamless deployment.
 - Optimized database queries and maintained code quality across production systems.
