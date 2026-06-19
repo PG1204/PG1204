@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Computer Science graduate student at **UC Irvine** with a passion for building scalable backend systems and full-stack applications. With **1.5 years of professional experience** at Deloitte, I've developed enterprise-grade software solutions and am currently seeking **software engineering internships and full-time opportunities** for Summer 2026.
+I'm a Computer Science graduate student at **UC Irvine** with a passion for building scalable backend systems and full-stack applications. With **1.5 years of professional experience** at Deloitte, I've developed enterprise-grade software solutions.
 
 - 🎓 **Master of Computer Science** @ UC Irvine (Expected - December 2026)
 - 🎓 **Bachelor of Computer Science** (Cloud Computing Specialization) @ SRM University
@@ -32,14 +32,6 @@ I'm a Computer Science graduate student at **UC Irvine** with a passion for buil
 - Automated **CI/CD pipelines** using Jenkins and RedHat OpenShift for seamless deployment.
 - Optimized database queries and maintained code quality across production systems.
 
-
-## 📚 Current Focus
-
-- 🔍 Actively **job hunting** for Software Engineering Internships (Summer 2026) and Full-Time roles
-- 💻 Practicing **LeetCode** problems daily - focusing on data structures, algorithms, and system design
-- 🏗️ Building **portfolio projects** that demonstrate scalability, resiliency, and security posture
-- 📖 Studying advanced topics: Graph algorithms, dynamic programming, binary trees, and distributed systems
-
 ## 🎯 Interests
 
 - Backend system architecture and microservices
@@ -47,15 +39,6 @@ I'm a Computer Science graduate student at **UC Irvine** with a passion for buil
 - Algorithm optimization and competitive programming
 - Database design and query optimization
 - Building impactful, production-grade software
-
-## 📊 Problem Solving
-
-I regularly practice algorithm problems focusing on:
-- String manipulation and pattern matching
-- Graph algorithms (BFS, DFS, shortest paths)
-- Tree traversals and binary search trees
-- Dynamic programming and optimization
-- System design and scalability challenges
 
 ## 🤝 Let's Connect!
 
